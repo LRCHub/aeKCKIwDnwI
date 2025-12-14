@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "The Top",
+  "base_artist": "Ken Blast",
+  "createdAt": "2025-12-14T13:25:25.401777Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fucked My Way Up To The Top",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/01_Fucked_My_Way_Up_To_The_Top_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "At the Top of Your Lungs",
+      "artist": "LiL Lotus",
+      "has_synced": true,
+      "path": "select/02_At_the_Top_of_Your_Lungs_LiL_Lotus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lonely At the Top",
+      "artist": "Lukid",
+      "has_synced": false,
+      "path": "select/03_Lonely_At_the_Top_Lukid.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pump My Body to the Top",
+      "artist": "Lords of Acid",
+      "has_synced": true,
+      "path": "select/04_Pump_My_Body_to_the_Top_Lords_of_Acid.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pump My Body to the Top",
+      "artist": "Lords Of Acid",
+      "has_synced": false,
+      "path": "select/05_Pump_My_Body_to_the_Top_Lords_Of_Acid.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "From the Top of the World",
+      "artist": "My Brightest Diamond",
+      "has_synced": false,
+      "path": "select/06_From_the_Top_of_the_World_My_Brightest_Diamond.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Drop the Top",
+      "artist": "Lil Gotit feat. Lil Keed",
+      "has_synced": false,
+      "path": "select/07_Drop_the_Top_Lil_Gotit_feat._Lil_Keed.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Drop The Top (ft. Lil Keed)",
+      "artist": "Lil Gotit",
+      "has_synced": false,
+      "path": "select/08_Drop_The_Top_(ft._Lil_Keed)_Lil_Gotit.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cream on the Top",
+      "artist": "Billy Ocean",
+      "has_synced": true,
+      "path": "select/09_Cream_on_the_Top_Billy_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Top",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/10_The_Top_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Stop At The Top",
+      "artist": "Scorpions",
+      "has_synced": true,
+      "path": "select/11_Don't_Stop_At_The_Top_Scorpions.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Over the Top",
+      "artist": "Pure Reason Revolution",
+      "has_synced": false,
+      "path": "select/12_Over_the_Top_Pure_Reason_Revolution.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Take Me to the Top",
+      "artist": "Cheap Trick",
+      "has_synced": true,
+      "path": "select/13_Take_Me_to_the_Top_Cheap_Trick.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Take Me to the Top",
+      "artist": "Loverboy",
+      "has_synced": false,
+      "path": "select/14_Take_Me_to_the_Top_Loverboy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Take Me To The Top (Remastered 2006)",
+      "artist": "Loverboy",
+      "has_synced": false,
+      "path": "select/15_Take_Me_To_The_Top_(Remastered_2006)_Loverboy.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Take Me to the Top",
+      "artist": "Loverboy",
+      "has_synced": true,
+      "path": "select/16_Take_Me_to_the_Top_Loverboy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Life at the Top Peoples Health Farm",
+      "artist": "The Style Council",
+      "has_synced": false,
+      "path": "select/17_Life_at_the_Top_Peoples_Health_Farm_The_Style_Council.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Shout To The Top - USA Remix",
+      "artist": "The Style Council",
+      "has_synced": false,
+      "path": "select/18_Shout_To_The_Top_-_USA_Remix_The_Style_Council.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Shout To The Top - Home & Abroad Live Version",
+      "artist": "The Style Council",
+      "has_synced": true,
+      "path": "select/19_Shout_To_The_Top_-_Home_&_Abroad_Live_Version_The_Style_Council.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THE TOP",
+      "artist": "KEN BLAST",
+      "has_synced": false,
+      "path": "select/pl_01_THE_TOP_KEN_BLAST.txt"
+    }
+  ]
+}
