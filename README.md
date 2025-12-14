@@ -1,0 +1,85 @@
+# Ken Blast – The Top
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Final lap
+I'm on top of the world
+And I will never rest for
+second again
+One more time
+I have beaten them out
+The scent of gasoline
+announces the end
+They all said
+I'd best give it up
+What a fool,
+to believe their lies!
+Now they've fallen,
+I'm at the top
+Are you ready now to die?
+I came up from the bottom
+And into the top
+For the first time I feel alive
+I can fly like an eagle
+And strike like a hawk
+Do you think you can survive...
+the top?
+<♪>
+One more turn
+and I'll settle the score
+A rubber fire screams
+into the night
+Crash and burn
+is what you're gonna do
+I am a master of the
+asphalt fight
+They all said
+I'd best give it up
+What a fool,
+to believe their lies!
+Now they've fallen,
+I'm at the top
+Are you ready now to die?
+I came up from the bottom
+And into the top
+For the first time I feel alive!
+I can fly like an eagle
+And strike like a hawk
+Do you think you can survive...
+I came up from the bottom
+And into the top
+For the first time I feel alive!
+I can fly like an eagle
+And strike like a hawk
+Do you think you can survive...
+the top?
+<♪>
+I came up from the bottom
+And into the top
+For the first time I feel alive!
+I can fly like an eagle
+And strike like a hawk
+Do you think you can survive...
+I came up from the bottom
+And into the top
+For the first time I feel alive!
+I can fly like an eagle
+And strike like a hawk
+Do you think you can survive...
+the top?
+<♪>
+I came up from the bottom
+And into the top
+For the first time I feel alive!
+I can fly like an eagle
+And strike like a hawk
+Do you think you can survive...
+I came up from the bottom
+And into the top
+For the first time I feel alive!
+I can fly like an eagle
+And strike like a hawk
+Do you think you can survive...
+the top?
+```
